@@ -1,0 +1,7 @@
+public class Text()
+{
+ public void msg()
+{
+   int s=18;
+}
+}
