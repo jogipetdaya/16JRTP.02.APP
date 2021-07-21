@@ -1,0 +1,6 @@
+public class Bike
+{
+public void doTyre(){
+  //logic goes here
+}
+}
